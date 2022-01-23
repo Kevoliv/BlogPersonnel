@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/categories/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/articletest/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/posts/articletest/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/tags/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tagtest/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/tags/tagtest/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/test/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/categories/test/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/language-perfect/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/posts/language-perfect/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/sanity-not-statistical/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/posts/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/destruction-of-words/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/posts/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pages/about/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/pages/about/</loc>
   </url><url>
-    <loc>/pages/</loc>
+    <loc>https://kevoliv.github.io/BlogPersonnel/pages/</loc>
   </url>
 </urlset>
