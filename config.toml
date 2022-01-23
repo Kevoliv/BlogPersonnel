@@ -1,4 +1,4 @@
-baseURL = "https://kevoliv.github.io/"
+baseURL = "https://kevoliv.github.io/BlogPersonnel/"
 languageCode = "en-us"
 title = "Kevin Blog"
 themesDir = "themes"
