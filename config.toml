@@ -1,6 +1,6 @@
 baseURL = "http://blog.kevinoliveira.ch/"
 languageCode = "en-us"
-title = "Kevin Blog"
+title = "Kevin | Blog"
 themesDir = "themes"
 theme = "hugo-winston-theme"
 
