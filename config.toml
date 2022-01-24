@@ -1,5 +1,5 @@
 baseURL = "https://blog.kevinoliveira.ch/"
-languageCode = "en-us"
+languageCode = "fr-ch"
 title = "Kevin | Blog"
 themesDir = "themes"
 theme = "hugo-winston-theme"
@@ -22,3 +22,27 @@ paginate = 3
   showPostsOnHomepage = false
   addFrame = true
   addDot = true
+
+[menu]
+
+[[menu.main]]
+    identifier = 'posts'
+    name = 'Articles'
+    url = '/posts/'
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'categories'
+    name = 'Catégories'
+    url = '/categories/'
+    weight = 2
+
+    [[menu.main]]
+    identifier = 'about'
+    name = 'A propos'
+    url = 'pages/about/'
+    weight = 3
+
+    
+
+  

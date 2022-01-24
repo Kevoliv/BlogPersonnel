@@ -1,9 +1,7 @@
 ---
-title: 'About'
+title: 'A propos'
 image: images/writer.jpeg
-menu:
-  main:
-    name: "About"
+
 ---
 
 ## Qui suis-je ?

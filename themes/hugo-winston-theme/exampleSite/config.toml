@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-languageCode = "en-us"
+languageCode = "fr-ch"
 title = "Hugo Winston"
 themesDir = "../.."
 theme = "hugo-winston"
