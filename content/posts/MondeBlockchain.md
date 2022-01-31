@@ -1,9 +1,8 @@
 ---
 title: Le prochain pas dans le monde de la blockchain
-date: 2022-01-24
+date: 2022-01-28
 description: '"Blockchain", "crypto", "NFT", ces mots sont de plus en plus présent dans nos vies, mais combien de personnes vont réellement comprendre ces technologies ?'
-image: images/cctv2.jpeg
-categories: 'blockchain'
+categories: 'Blockchain'
 tags: 'ux'
 draft: false
 ---

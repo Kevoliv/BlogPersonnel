@@ -1,6 +1,6 @@
 ---
 title: AR vs VR
-date: 2022-01-30
+date: 2022-01-28
 description: "La 'réalité augmentée' et la 'réalité virtuelle' sont deux technologies à la fois proche et à la fois opposées. Elles sont souvent confondu par le grand public. Nous allons éclaircir pour mettre un point final à cette confusion injuste."
 categories: 'AR'
 ---
